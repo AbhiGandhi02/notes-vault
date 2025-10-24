@@ -32,7 +32,7 @@ To get a local copy up and running, follow these steps.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
+    git clone https://github.com/AbhiGandhi02/notes-vault.git
     ```
 2.  Install backend packages
     ```sh
